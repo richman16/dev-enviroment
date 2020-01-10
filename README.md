@@ -14,7 +14,7 @@ Para ejemplificar nuestro ambiente de desarrolllo, estaremos trabajando en un pr
 $ npm init -y
 ```
 
-## Dependencias de desarrollo
+## Dependencias de desarrollo
 
 * `webpack`
 * `webpack-cli`
@@ -31,7 +31,7 @@ $ npm init -y
 $ npm i -D webpack webpack-cli @babel/core babel-loader @babel/preset-env @babel/cli html-webpack-plugin webpack-dev-server
 ```
 
-### [Clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin)
+### [Clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin)
 
 Plugin para eliminar los bundles JS innecesarios.
 
@@ -87,7 +87,7 @@ $ npm run build
 ```
 
 
-## LOG
+## LOG
 
 - **Initial Commit**
     - Estructura básica
